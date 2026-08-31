@@ -2,36 +2,36 @@
   "name": "Anar's Source",
   "identifier": "com.anar.source",
   "subtitle": "A Source with Random Apps",
-  "iconURL": "https://example.com",
-  "headerURL": "https://example.com",
-  "website": "https://example.com",
+  "iconURL": "https://github.io",
+  "headerURL": "https://github.io",
+  "website": "https://anargihu.github.io/anar-s-altsource/",
   "tintColor": "#5856D6",
   "apps": [
     {
-      "name": "Random App ",
-      "bundleIdentifier": "comanarrandomapp",
+      "name": "Random App 1",
+      "bundleIdentifier": "com.anar.randomapp1",
       "developerName": "Anar",
       "version": "1.0.0",
-      "versionDate": "--",
-      "versionDescription": "Initial release",
-      "downloadURL": "https://examplecom/apps/appipa",
-      "
-      "iconURL": "https://examplecom/apps/icons/apppng",
-      "size": 
-      "tintColor": "#FF"
+      "versionDate": "2026-08-31",
+      "versionDescription": "Initial release.",
+      "downloadURL": "https://github.io",
+      "localizedDescription": "Put a description of your first random app here.",
+      "iconURL": "https://github.io",
+      "size": 10485760,
+      "tintColor": "#FF9500"
     },
     {
-      "name": "Random App ",
-      "bundleIdentifier": "comanarrandomapp",
+      "name": "Random App 2",
+      "bundleIdentifier": "com.anar.randomapp2",
       "developerName": "Anar",
       "version": "1.0.0",
-      "versionDate": "--",
-      "versionDescription": "Initial release",
-      "downloadURL": "https://examplecom/apps/appipa",
-      "
-      "iconURL": "https://examplecom/apps/icons/apppng",
-      "size": 
-      "tintColor": "#C"
+      "versionDate": "2026-08-31",
+      "versionDescription": "Initial release.",
+      "downloadURL": "https://github.io",
+      "localizedDescription": "Put a description of your second random app here.",
+      "iconURL": "https://github.io",
+      "size": 15728640,
+      "tintColor": "#007AFF"
     }
   ]
 }
