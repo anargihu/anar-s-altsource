@@ -1,0 +1,37 @@
+{
+  "name": "Anar's Source",
+  "identifier": "com.anar.source",
+  "subtitle": "A Source with Random Apps",
+  "iconURL": "https://example.com",
+  "headerURL": "https://example.com",
+  "website": "https://example.com",
+  "tintColor": "#5856D6",
+  "apps": [
+    {
+      "name": "Random App ",
+      "bundleIdentifier": "comanarrandomapp",
+      "developerName": "Anar",
+      "version": "1.0.0",
+      "versionDate": "--",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://examplecom/apps/appipa",
+      "
+      "iconURL": "https://examplecom/apps/icons/apppng",
+      "size": 
+      "tintColor": "#FF"
+    },
+    {
+      "name": "Random App ",
+      "bundleIdentifier": "comanarrandomapp",
+      "developerName": "Anar",
+      "version": "1.0.0",
+      "versionDate": "--",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://examplecom/apps/appipa",
+      "
+      "iconURL": "https://examplecom/apps/icons/apppng",
+      "size": 
+      "tintColor": "#C"
+    }
+  ]
+}
