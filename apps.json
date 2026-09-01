@@ -32,6 +32,19 @@
       "size": 171400000,
       "iconURL": "https://anargihu.github.io/anar-s-altsource/apps/icons/LumaFusion.png",
       "tintColor": "#FF9500"
+    },
+    {
+      "name": "Bloons TD 6",
+      "bundleIdentifier": "com.lumatouch.LumaFusion",
+      "developerName": "Luma Touch LLC",
+      "version": "5.4.4",
+      "versionDate": "2026-04-23",
+      "versionDescription": "Fixed crashes with underlined titles, keyframe timing issues, and removed brush effect keyframes persisting in the timeline.",
+      "downloadURL": "https://archive.org/download/ad-guard-pro-4.5.6-le-ti/LumaFusion_5.4.4_26.0_LeTi.ipa",
+      "localizedDescription": "A professional mobile video editing app with powerful tools for video, audio, effects, titles, projects, media management, and sharing.",
+      "size": 171400000,
+      "iconURL": "https://anargihu.github.io/anar-s-altsource/apps/icons/LumaFusion.png",
+      "tintColor": "#FF9500"
     }
   ]
 }
